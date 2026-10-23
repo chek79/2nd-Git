@@ -1,1 +1,2 @@
-Weight = 700g
+Weight = 1400kg
+
