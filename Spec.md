@@ -1,4 +1,4 @@
 Weight = 1400kg
-Height = 188cm
+Height = 180cm
 
 
